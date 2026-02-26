@@ -1,6 +1,5 @@
-# PalindroneCheckerApp
- UC1-WelcomePage
-# PalindroneCheckerApp
+
+# PalindromeCheckerApp
 =======
  main
 Project Procedure
