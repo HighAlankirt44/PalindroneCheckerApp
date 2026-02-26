@@ -1,4 +1,8 @@
 # PalindroneCheckerApp
+ UC1-WelcomePage
+# PalindroneCheckerApp
+=======
+ main
 Project Procedure
 
 1️.Objective
@@ -74,4 +78,8 @@ Proper documentation comments (JavaDoc style)
 
 Clean and readable code structure
 
+UC1-WelcomePage
 Version-based development approach
+=======
+Version-based development approach
+ main
